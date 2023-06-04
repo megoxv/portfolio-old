@@ -1,5 +1,6 @@
 AOS.init();
 
+Fancybox.bind('[data-fancybox="insightAI"]')
 Fancybox.bind('[data-fancybox="promptGen"]')
 Fancybox.bind('[data-fancybox="groupsPro"]')
 Fancybox.bind('[data-fancybox="ultimateTools"]')
