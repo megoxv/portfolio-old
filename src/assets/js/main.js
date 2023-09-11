@@ -1,5 +1,6 @@
 AOS.init();
 
+Fancybox.bind('[data-fancybox="hlrpay"]')
 Fancybox.bind('[data-fancybox="insightAI"]')
 Fancybox.bind('[data-fancybox="promptGen"]')
 Fancybox.bind('[data-fancybox="groupsPro"]')
